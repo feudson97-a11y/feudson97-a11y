@@ -6,11 +6,12 @@ I focus on AI systems that are measurable and production-minded: tested, reprodu
 
 ### Tech stack
 
-- **AI / LLM:** Claude (Anthropic API), OpenAI, NVIDIA Nemotron, LangGraph, LangChain, CrewAI, n8n
+- **AI / LLM:** Claude (Anthropic API), OpenAI, NVIDIA Nemotron, LangGraph, LangChain, CrewAI, n8n, agentic workflows with human-in-the-loop approval
+- **Data governance & quality:** PII detection & masking (regex, Luhn, HMAC tokenization), data-quality validation, financial reconciliation, audit reporting
 - **RAG & vector search:** Qdrant, sentence-transformers, embeddings
 - **Data & ML:** pandas, NVIDIA RAPIDS (cuDF, cuML), scikit-learn, YOLOv8, OpenCV
 - **Backend:** Python, FastAPI, Flask, PostgreSQL, Redis, Celery
-- **DevOps:** Docker, GitHub Actions, Ruff, pytest
+- **DevOps:** Docker, GitHub Actions, Ruff, pytest, unittest, CI matrix (Ubuntu/Windows)
 
 ### Featured projects
 
