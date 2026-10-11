@@ -16,7 +16,7 @@ I focus on AI systems that are measurable and production-minded: tested, reprodu
 
 | Project | What it does | Highlights |
 |---|---|---|
-| [safedata-fintech-qa](https://github.com/feudson97-a11y/safedata-fintech-qa) | PII governance, data-quality validation and financial reconciliation for AI-ready fintech datasets | 0 PII leaks, 100% injected-defect recall, $0.00 reconciliation variance, optional LangGraph engine, CI on 3.11–3.14 |
+| [safedata-fintech-qa](https://github.com/feudson97-a11y/safedata-fintech-qa) | PII governance, data-quality validation and financial reconciliation for AI-ready fintech datasets | 0 PII leaks, 100% injected-defect recall, $0.00 reconciliation variance, LangGraph engine with human approval & AI summary, CI on 3.11–3.14 |
 | [gpu-taxi-analytics](https://github.com/feudson97-a11y/gpu-taxi-analytics) | GPU vs CPU analysis of ~3M NYC taxi trips with RAPIDS | **21.5x faster** than pandas/scikit-learn on a Tesla T4 |
 | [lexia-legal-assistant](https://github.com/feudson97-a11y/lexia-legal-assistant) | n8n RAG assistant that answers questions on legal documents with sources | NVIDIA Nemotron 3 + Nemotron Embed |
 | [agentic-ai-platform](https://github.com/feudson97-a11y/agentic-ai-platform) | Multi-agent platform with Claude, LangGraph and FastAPI | 7 agents, RAG pipeline, JWT auth, Docker |
