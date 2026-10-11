@@ -1,4 +1,4 @@
-﻿## AI & Data Engineer
+## AI & Data Engineer
 
 I build LLM agents, RAG systems and GPU-accelerated data pipelines.
 
